@@ -59,3 +59,24 @@ materi-dosen/
 # Project context (local only)
 AGENTS.md
 
+.Rproj.user
+
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.xdv
+*.synctex.gz
+
+# Local source drafts kept off GitHub
+week-10/K-Means-Extensions.md
+week-10/K-Means-Extensions.tex
+week-11/Support-Vector-Machine.md
+week-11/Support-Vector-Machine.tex
+week-11/data/backup_before_real_upload_20260511-192737/
+week-11/data/backup_old_mismatch/
+week-11/data/solution/
