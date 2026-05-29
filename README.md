@@ -28,9 +28,9 @@ Disusun oleh asisten dosen: **Danish Rafie Ekaputra** & **Yendra Wijayanto**
 
 > Clustering dan mixed data clustering untuk menemukan pola tersembunyi dalam data tanpa label.
 
-- **Modul 5: Supervised Learning** Week 11 · Week 12
+- **Modul 5: Supervised Learning** [Week 11](week-11/) · Week 12
 
-> Klasifikasi menggunakan Decision Tree dan Naive Bayes.
+> Support Vector Machine untuk classification dan pengantar regression, dilanjutkan supervised learning topic berikutnya.
 
 - **Modul 6: Model Evaluation** Week 13 · Week 14
 
